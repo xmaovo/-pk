@@ -20,4 +20,4 @@
 
 ## 运行方式
 ```bash
-python -m streamlit run app.py
+streamlit run app.py
